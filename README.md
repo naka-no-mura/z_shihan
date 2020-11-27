@@ -27,11 +27,11 @@
 在庫、仕入、販売を一括で管理し、「販売先ごと」の収支が把握できるサービスは他にはありません。
 
 有名なサービス
-- [ロジクラ](https://logikura.jp/)
+- [ロジクラ](https://logikura.jp/)  
 　　入荷・出荷に徹した在庫管理サービス
-- [ZAICO](https://www.zaico.co.jp/)
+- [ZAICO](https://www.zaico.co.jp/)  
 　　在庫・商品ごとの売り上げを管理できるサービス
-- [flam](https://www.flamsv.com/)
+- [flam](https://www.flamsv.com/)  
 　　多機能で在庫・売り上げ・会計を管理できるサービス
 
 # マーケット
