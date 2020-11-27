@@ -28,8 +28,8 @@
 
 有名なサービス
 - [ロジクラ](https://logikura.jp/) 入荷・出荷に徹した在庫管理サービス
-- [ZAICO](https://www.zaico.co.jp/)在庫・商品ごとの売り上げを管理できるサービス
-- [flam](https://www.flamsv.com/)多機能で在庫・売り上げ・会計を管理できるサービス
+- [ZAICO](https://www.zaico.co.jp/) 在庫・商品ごとの売り上げを管理できるサービス
+- [flam](https://www.flamsv.com/) 多機能で在庫・売り上げ・会計を管理できるサービス
 
 # マーケット
 仕入・在庫管理・販売の一連の流れを1人で担うような営業職の方。
