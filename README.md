@@ -44,4 +44,4 @@
 - 在庫管理＋需要予測、在庫管理＋棚卸といったアプリは探せば見つかったが、収支を見れるような営業マン寄りのアプリはなかったため。
 
 # 画面遷移図
-https://xd.adobe.com/view/c7797b86-c39a-489b-9889-0a49fca1c097-922a/
+https://xd.adobe.com/view/bf5ae5fc-c352-4546-afe5-486ee58fbe0a-ea09/
