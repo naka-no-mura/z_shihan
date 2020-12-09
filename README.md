@@ -45,3 +45,6 @@
 
 # 画面遷移図
 https://xd.adobe.com/view/bf5ae5fc-c352-4546-afe5-486ee58fbe0a-ea09/
+
+# ER図
+https://drive.google.com/file/d/1fNgbByW-FdsN_WC7Bfsl2i-Yj1ytJXH1/view?usp=sharing
