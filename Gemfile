@@ -8,6 +8,8 @@ ruby '2.7.1'
 gem 'rails', '~> 6.0.3', '>= 6.0.3.4'
 
 gem 'parser', '2.7.1.5'
+gem 'slim-rails'
+gem 'html2slim'
 
 gem 'mysql2', '0.5.3'
 # Use Puma as the app server
