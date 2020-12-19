@@ -1,0 +1,2 @@
+class ArrivalSupplier < ApplicationRecord
+end
